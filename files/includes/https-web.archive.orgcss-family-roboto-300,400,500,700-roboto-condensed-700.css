@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBBc9.ttf) format('truetype');
+}
+
+
+/*
+playback timings (ms):
+  captures_list: 1.242
+  exclusion.robots: 0.2
+  exclusion.robots.policy: 0.178
+  esindex: 0.015
+  cdx.remote: 5.614
+  LoadShardBlock: 187.603 (6)
+  PetaboxLoader3.datanode: 152.417 (8)
+  PetaboxLoader3.resolve: 724.493 (3)
+  load_resource: 929.902 (2)
+*/
